@@ -11,6 +11,11 @@
    First of all, let's explore "Community" panel. Sometimes there can be some usefull hints and comments from other TI Specialists. We get lucky today - last comment is similar to what we are looking for.
    ![Victim's Name](Attachments/VictimsName.png)
 3. What is the name of the malicious website the attacker created to simulate this platform?
-   
    As in the previous question, let's explore **Community** section. In another comment, that has been created earlier we can find another portion of useful information - there is also an answer for #9 question
-   ![domain name](Attachments/domain-name.png)
+   ![Domain Name](Attachments/domain-name.png)
+4. Which cloud storage service did the campaign operators use to host malware samples for both macOS and Windows OS versions?
+   From this step (honestly, from 2nd) we enforced to use another TI Platfrom - Secure List. With SHA-256 hash from Virus Total of malacious dll, we can search relative for out sample information. There is one article about Tust Infostealer campaign (https://securelist.ru/tusk-infostealers-campaign/110460/). In the preview section of the article we can easly find the answer - dropbox.
+   ![Cloud storage service](Attachments/dropbox-TIS.png)
+5. 
+   
+
