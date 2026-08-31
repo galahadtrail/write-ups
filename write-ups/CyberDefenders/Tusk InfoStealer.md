@@ -8,5 +8,6 @@
    We need to choose **Details** panel and in the bottom of it's section *Basic properties* we'll find filesize.
    ![Filesize](Attachments/FileSize.png)
 2. **What word** do the threat actors use in log messages to describe their victims, based on the name of an ancient hunted creature?
-   First of all, let's explore "Community" panel. Sometimes there can be some usefull hints and comments from other TI Specialists. We get lucky today - last comment is similar to what we look for.
+   First of all, let's explore "Community" panel. Sometimes there can be some usefull hints and comments from other TI Specialists. We get lucky today - last comment is similar to what we are looking for.
    ![Victim's Name](Attachments/VictimsName.png)
+3. 
