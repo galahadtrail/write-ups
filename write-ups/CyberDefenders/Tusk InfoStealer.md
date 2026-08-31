@@ -10,4 +10,7 @@
 2. **What word** do the threat actors use in log messages to describe their victims, based on the name of an ancient hunted creature?
    First of all, let's explore "Community" panel. Sometimes there can be some usefull hints and comments from other TI Specialists. We get lucky today - last comment is similar to what we are looking for.
    ![Victim's Name](Attachments/VictimsName.png)
-3. 
+3. What is the name of the malicious website the attacker created to simulate this platform?
+   
+   As in the previous question, let's explore **Community** section. In another comment, that has been created earlier we can find another portion of useful information - there is also an answer for #9 question
+   ![domain name](Attachments/domain-name.png)
