@@ -19,6 +19,9 @@
 5. What is the password for decompression found in this configuration file?
    We continue searching SL article, and found another answer - *password* (**newfile2024**) and base64 string (we need only password).
    ![Password](Attachments/password-TIS.png)
-6. 
+6. What is the name of the function responsible for retrieving the field archive from the configuration file?
+   Soon after previous question we can see next answer. Loader uses mainly two function - *downloadAndExtractArchive* and *loadFile*. For our answer we need the first one.
+   ![Archive function](Attachments/function-archive-TIS.png)
+7. 
    
 
