@@ -14,8 +14,11 @@
    As in the previous question, let's explore **Community** section. In another comment, that has been created earlier we can find another portion of useful information - there is also an answer for #9 question
    ![Domain Name](Attachments/domain-name.png)
 4. Which cloud storage service did the campaign operators use to host malware samples for both macOS and Windows OS versions?
-   From this step (honestly, from 2nd) we enforced to use another TI Platfrom - Secure List. With SHA-256 hash from Virus Total of malacious dll, we can search relative for out sample information. There is one article about Tust Infostealer campaign (https://securelist.ru/tusk-infostealers-campaign/110460/). In the preview section of the article we can easly find the answer - dropbox.
+   From this step (honestly, from 2nd) we enforced to use another TI Platfrom - Secure List. With SHA-256 hash from Virus Total of malacious dll, we can search relative for out sample information. There is one article about Tust Infostealer campaign (https://securelist.ru/tusk-infostealers-campaign/110460/). In the preview section of the article we can easly find the answer - **dropbox**.
    ![Cloud storage service](Attachments/dropbox-TIS.png)
-5. 
+5. What is the password for decompression found in this configuration file?
+   We continue searching SL article, and found another answer - password and base64 string (we need only password).
+   ![Password](Attachments/password-TIS.png)
+6. 
    
 
