@@ -22,6 +22,13 @@
 6. What is the name of the function responsible for retrieving the field archive from the configuration file?
    Soon after previous question we can see next answer. Loader uses mainly two function - *downloadAndExtractArchive* and *loadFile*. For our answer we need the first one.
    ![Archive function](Attachments/function-archive-TIS.png)
-7. 
+7. What is the name of the legitimate translator, and what is the name of the malicious translator created by the attackers?
+   Step by step we discover the article (routine for TI) and found information about some fake translator **voico.io**, that's used by adversaries. There we also can see the original one - **yous.ai**. 
+   ![Original and fake translator](Attachments/translator-TIS.png)
+8. What are the IP addresses of the **StealC C2 servers** used in the campaign?
+   We go down the article, where usually IoC's located. Here we can find information about two C&C servers.
+   ![C&C servers](Attachments/cc-TIS.png)
+9. What is the address of the Ethereum cryptocurrency wallet used in this campaign?
+   We can find this information both in the article or in Virus Total. **It's mentioned in this guide in #3 question**.
    
 
