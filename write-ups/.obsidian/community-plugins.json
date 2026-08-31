@@ -2,5 +2,7 @@
   "obsidian-git",
   "table-editor-obsidian",
   "omnisearch",
-  "obsidian-linter"
+  "obsidian-linter",
+  "antidote-grammar-checker-integration",
+  "obsidian-languagetool-plugin"
 ]

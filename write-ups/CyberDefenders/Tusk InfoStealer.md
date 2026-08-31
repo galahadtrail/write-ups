@@ -1,20 +1,20 @@
-0. First of all, we in lab's archive we can see only one file ==*"hash.txt"*== with MD5 hash in it. There is also a hint - we need to use ==VirusTotal, Hybrid Analysis== or some kind of TI (Threat Intelligence) platform. Let's use **VirusTotal.com**
+0. Firstly, we in lab's archive we can see only one file ==*"hash.txt"*== with MD5 hash in it. There is also a hint - we need to use ==Virus Total, Hybrid Analysis== or some kind of TI (Threat Intelligence) platform. Let's use **VirusTotal.com**
    
 
 ---
 
 1. **In KB, what is the size of the malicious file?**
    After applying MD5 hash into search bar, we see main menu with **44** alerts from different sources.
-   We need to choose **Details** panel and in the bottom of it's section *Basic properties* we'll find filesize.
+   We need to choose **Details** panel and in the bottom of it's section *Basic properties* we'll find **file size**.
    ![Filesize](Attachments/FileSize.png)
 2. **What word** do the threat actors use in log messages to describe their victims, based on the name of an ancient hunted creature?
-   First of all, let's explore "Community" panel. Sometimes there can be some usefull hints and comments from other TI Specialists. We get lucky today - last comment is similar to what we are looking for.
+   Foremost, let's explore "Community" panel. Sometimes there can be some useful hints and comments from other TI Specialists. We get lucky today - last comment is similar to what we are looking for.
    ![Victim's Name](Attachments/VictimsName.png)
 3. What is the name of the malicious website the attacker created to simulate this platform?
    As in the previous question, let's explore **Community** section. In another comment, that has been created earlier we can find another portion of useful information - there is also an answer for #9 question
    ![Domain Name](Attachments/domain-name.png)
 4. Which cloud storage service did the campaign operators use to host malware samples for both macOS and Windows OS versions?
-   From this step (honestly, from 2nd) we enforced to use another TI Platfrom - Secure List. With SHA-256 hash from Virus Total of malacious dll, we can search relative for out sample information. There is one article about Tust Infostealer campaign (https://securelist.ru/tusk-infostealers-campaign/110460/). In the preview section of the article we can easly find the answer - **dropbox**.
+   From this step (honestly, from 2nd) we enforced to use another TI Platform - Secure List. With SHA-256 hash from Virus Total of malicious DLL, we can search relative for our sample information. There is one article about Tusk Infostealer campaign (https://securelist.ru/tusk-infostealers-campaign/110460/). In the preview section of the article we can easily find the answer - **Dropbox**.
    ![Cloud storage service](Attachments/dropbox-TIS.png)
 5. What is the password for decompression found in this configuration file?
    We continue searching SL article, and found another answer - *password* (**newfile2024**) and base64 string (we need only password).
