@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberDefenders/Tusk InfoStealer.md",
+                "file": "CyberDefenders/XWorm.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tusk InfoStealer"
+              "title": "XWorm"
             }
           }
         ]
@@ -201,8 +201,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3c549f3c6a2582a6",
+  "active": "e3f525fa075164d7",
   "lastOpenFiles": [
+    "CyberDefenders/Tusk InfoStealer.md",
+    "CyberDefenders/XWorm.md",
     "CyberDefenders/Attachments/cc-TIS.png",
     "CyberDefenders/Attachments/translator-TIS.png",
     "CyberDefenders/Attachments/function-archive-TIS.png",
@@ -211,7 +213,6 @@
     "CyberDefenders/Attachments/domain-name.png",
     "CyberDefenders/Attachments/VictimsName.png",
     "CyberDefenders/Attachments/FileSize.png",
-    "CyberDefenders/Tusk InfoStealer.md",
     "CyberDefenders/Attachments",
     "Добро пожаловать.md",
     "CyberDefenders"
