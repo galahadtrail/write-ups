@@ -179,6 +179,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "70786176d6c8b513",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
           }
         ],
         "currentTab": 5
@@ -198,11 +208,14 @@
       "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false
     }
   },
   "active": "3c549f3c6a2582a6",
   "lastOpenFiles": [
+    "CyberDefenders/Attachments/manager-Tomcat.png",
+    "CyberDefenders/Attachments/gobuster-Tomcat.png",
     "CyberDefenders/XMLRat.md",
     "CyberDefenders/Tomcat Takeover.md",
     "Добро пожаловать.md",
@@ -216,7 +229,6 @@
     "CyberDefenders/Attachments/lnk-Xworm.png",
     "CyberDefenders/Attachments/port-Xworm.png",
     "CyberDefenders/Attachments/aes-Xworm.png",
-    "CyberDefenders/Attachments/task-Xworm.png",
     "CyberDefenders/Tusk InfoStealer.md",
     "CyberDefenders/Attachments",
     "CyberDefenders"
