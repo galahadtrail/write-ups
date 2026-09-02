@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CyberDefenders/XMLRat.md",
+                "file": "Добро пожаловать.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "XMLRat"
+              "title": "Добро пожаловать"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberDefenders/XMLRat.md",
+                "file": "Добро пожаловать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberDefenders/XMLRat.md",
+                "file": "Добро пожаловать.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -201,13 +201,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "23b2677e53df9001",
+  "active": "e3f525fa075164d7",
   "lastOpenFiles": [
+    "CyberDefenders/XMLRat.md",
     "CyberDefenders/Attachments/lolbin-XLMR.png",
     "CyberDefenders/Attachments/first-stage-XLMRat.png",
     "Pasted image 20260902055924.png",
     "CyberDefenders/Attachments/strings-Xworm.png",
-    "CyberDefenders/XMLRat.md",
     "CyberDefenders/XWorm.md",
     "Добро пожаловать.md",
     "CyberDefenders/Attachments/keylog-Xworm.png",
@@ -216,7 +216,6 @@
     "CyberDefenders/Attachments/port-Xworm.png",
     "CyberDefenders/Attachments/aes-Xworm.png",
     "CyberDefenders/Attachments/task-Xworm.png",
-    "CyberDefenders/Attachments/Sbiedll-Xworm.png",
     "CyberDefenders/Tusk InfoStealer.md",
     "CyberDefenders/Attachments",
     "CyberDefenders"
