@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CyberDefenders/Tusk InfoStealer.md",
+                "file": "CyberDefenders/XWorm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,8 +161,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CyberDefenders/Tusk InfoStealer.md",
-                "followCursor": false,
+                "file": "CyberDefenders/XWorm.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -203,6 +203,7 @@
   },
   "active": "3c549f3c6a2582a6",
   "lastOpenFiles": [
+    "CyberDefenders/Attachments/aes-Xworm.png",
     "CyberDefenders/Attachments/task-Xworm.png",
     "CyberDefenders/Attachments/Sbiedll-Xworm.png",
     "CyberDefenders/Attachments/abode-Xworm.png",
@@ -215,7 +216,6 @@
     "CyberDefenders/Attachments/password-TIS.png",
     "CyberDefenders/Attachments/dropbox-TIS.png",
     "CyberDefenders/Attachments/domain-name.png",
-    "CyberDefenders/Attachments/VictimsName.png",
     "CyberDefenders/Attachments",
     "Добро пожаловать.md",
     "CyberDefenders"
